@@ -1,3 +1,5 @@
+https://heroku.com/deploy?template=https://github.com/basbas01/WZHR
+
 <p align="center">
     <a href="https://github.com/weebzone/WZML">
         <kbd>
